@@ -1,0 +1,11 @@
+{
+  "name": "SecretSpace - Private 2-Person Messaging",
+  "description": "A private, temporary messaging web application for two authorized participants with text, image sharing, voice messages, audio/video WebRTC calling, and automatic message deletion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
